@@ -1,27 +1,3 @@
-<!---
-- 👋 Hi, I’m @elior sin
-- 👀 I’m interested in Cyber Security & Back-End Programming
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
---->
-
-
-### Hi there, I'm Elior Sin! 👋
-
----
-
-<!-- - 🔭 I’m currently working on ... -->
-- 👀 I’m interested in **Cyber Security** & **Back-End Programming**
-- 🌱 I’m **currently learning:** **Python(_Django_)** and **Docker**
-- 👯 I’m **looking to:** collaborate with programmers.
-- 🥅 **2022 Goals**: Contribute to **Open Source** Projects.
-
-
-<br />
-- 📫 How to reach me:
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
@@ -36,6 +12,27 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+***
+
+
+### Hi there, I'm Elior Sin! 👋
+
+
+
+<!-- - 🔭 I’m currently working on ... -->
+- 👀 I’m interested in **Cyber Security** & **Back-End Programming**
+- 🌱 I’m **currently learning:** **Python(_Django_)** and **Docker**
+- 👯 I’m **looking to:** collaborate with programmers.
+- 🥅 **2022 Goals**: Contribute to **Open Source** Projects.
+
+
+<br />
+
+<!---
+- 📫 How to reach me:
+--->
+
 
 ***
 <br />
@@ -62,4 +59,13 @@
 <!---
 eliorsin69/eliorsin69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+<!---
+- 👋 Hi, I’m @elior sin
+- 👀 I’m interested in Cyber Security & Back-End Programming
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+--->
 --->
